@@ -4,17 +4,19 @@
 
 </p>
 
-## LINK 
+<h1> LINK 🖇️</h1>
 https://marshjaja.github.io/Horiseon-Challenge-EdX-Week-1/#social-media-marketing
 
-## DESCRIPTION 
-<h2> This project aims to enhance web accessibility by addressing the following criteria:</h2>
+ <h1>DESCRIPTION 📖</h1>
+ 
+## This project aims to enhance web accessibility by addressing the following criteria:
+
 <h4>Semantic HTML Elements:</h4>
 
 - HTML elements that follow a logical structure that is independent of styling and positioning.
 - Headings within the document are in a sequential order
 
-<h4>Accessibility:</h4> 
+#### Accessibility:
 
 - Image and icon elements contain accessible alt attributes
 - Proper organization of content is essential for accessibility.
@@ -24,7 +26,8 @@ https://marshjaja.github.io/Horiseon-Challenge-EdX-Week-1/#social-media-marketin
 - In addition to addressing the accessibility criteria, the CSS in this project is well-organized <br> and follows best practices for maintainability and readability.
 
 
-## SCREENSHOTS
+<h1>SCREENSHOTS📷</h1>
+
 <img width="1401" alt="Screenshot 2023-10-23 at 18 21 17" src="https://github.com/marshjaja/Horiseon-Challenge-EdX-Week-1/assets/114920895/e13b7b77-66df-4522-9dc4-67b095c4113c">
 
 <img width="1405" alt="Screenshot 2023-10-23 at 18 21 47" src="https://github.com/marshjaja/Horiseon-Challenge-EdX-Week-1/assets/114920895/0c6052c6-b386-4a5a-a574-cbd9fec7d767">
@@ -35,12 +38,12 @@ https://marshjaja.github.io/Horiseon-Challenge-EdX-Week-1/#social-media-marketin
 
 ---------
 
-## VIDEO 
+<h1> VIDEO 📹</h1>
 https://www.loom.com/share/d0455bb7ca2b4352a5c55aa334b84c98
 
 ---------
 
-## GETTING STARTED
+<h1>GETTING STARTED❗</h1>
 
 1. Clone the repository: git clone <repository-url>
 2. Navigate to the project directory: cd repository name
@@ -50,7 +53,7 @@ https://www.loom.com/share/d0455bb7ca2b4352a5c55aa334b84c98
 
 
 
-## TECHNOLOGIES USED
+<h1>TECHNOLOGIES USED📶</h1>
 Front-end: 
 - [x] HTML
 - [x] CSS <br>
@@ -59,7 +62,7 @@ Other Tools and Libraries:
  
 
 
-## CONTRIBUTING
+<h1>CONTRIBUTING🆘</h1>
 <h3>We welcome contributions from the community!</h3> 
 To contribute, follow these steps:
 1. Fork the repository. <br>
@@ -71,5 +74,5 @@ To contribute, follow these steps:
 - Please make sure to update tests as appropriate.
 
 
-## LICENSE 
+## LICENSE®©
 This project is licensed under the [MIT](LICENSE)
