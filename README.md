@@ -20,6 +20,7 @@ https://marshjaja.github.io/Horiseon-Challenge-EdX-Week-1/#social-media-marketin
 - Proper organization of content is essential for accessibility.
 
 <h4>CSS Organization</h4> 
+
 - In addition to addressing the accessibility criteria, the CSS in this project is well-organized <br> and follows best practices for maintainability and readability.
 
 
@@ -42,9 +43,7 @@ https://www.loom.com/share/d0455bb7ca2b4352a5c55aa334b84c98
 ## GETTING STARTED
 
 1. Clone the repository: git clone <repository-url>
-----
 2. Navigate to the project directory: cd repository name
-------
 3. Install dependencies: npm install, yarn add
 4. Set up environment variables:
 5. Start the development server: localhost, liveserver
@@ -60,20 +59,16 @@ Other Tools and Libraries:
  
 
 
- 
-
-
 ## CONTRIBUTING
-We welcome contributions from the community! <br>
+<h3>We welcome contributions from the community!</h3> 
 To contribute, follow these steps:
-
-Fork the repository. <br>
-Create a new branch: git checkout -b my-new-feature <br>
-Make your changes and commit them: git commit -am 'Add some feature'<br>
-Push the branch: git push origin my-new-feature <br>
-Submit a pull request detailing your changes. <br>
-For major changes, please open an issue first to discuss what you would like to change. <br>
-Please make sure to update tests as appropriate.
+1. Fork the repository. <br>
+2. Create a new branch: git checkout -b my-new-feature <br>
+3. Make your changes and commit them: git commit -am 'Add some feature'<br>
+4. Push the branch: git push origin my-new-feature <br>
+5. Submit a pull request detailing your changes. <br>
+- For major changes, please open an issue first to discuss what you would like to change. <br>
+- Please make sure to update tests as appropriate.
 
 
 ## LICENSE 
