@@ -5,7 +5,7 @@
 </p>
 
 <h1> LINK 🖇️</h1>
-https://marshjaja.github.io/Horiseon-Challenge-EdX-Week-1/#social-media-marketing
+https://marshjaja.github.io/Horiseon-Challenge-EdX-Week-1/
 
  <h1>DESCRIPTION 📖</h1>
  
